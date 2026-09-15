@@ -1,0 +1,14 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Python package/build artifacts
+cell-models/.eggs/
+cell-models/*.egg-info/
+
+# OS files
+.DS_Store
