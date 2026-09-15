@@ -1,0 +1,14 @@
+.mypy_cache
+.DS_Store
+cell-models/__pycache__
+dist
+*.egg-info
+build
+cell_models/__pycache__
+tests/input_data
+tests/results
+cell_models/rtxi/__pychache__
+cell_models/ga/__pycache__
+*/results
+*.swp
+*__pycache__
